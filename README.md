@@ -6,7 +6,7 @@ This repository is just to show how we can print the HACKBASE tunnel Graphics, i
 to show awesome graphics of login in HackBase Database. For example in Kali Linux.
 
 # Design Base
-This have been crafted with CSS and Cool JS developed by earlyhacker on codepen. Hence it's licence under MIT, so can be used by any developer and programmer.
+This have been crafted with CSS and Cool JS. Hence it's licence under MIT, so can be used by any developer and programmer.
 Version 1.0
 
 # Added circleci for build debug
